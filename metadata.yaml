@@ -1,5 +1,8 @@
 _repo: The-Power-of-Concentration_1570
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumont, Theron Q.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/662
     wikipedia: http://www.gutenberg.org/browse/authors/a#a4862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1570#The-Power-of-Concentration
 gutenberg_issued: '1998-12-01'
 gutenberg_type: Text
 identifiers:
